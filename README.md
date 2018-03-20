@@ -1,2 +1,2 @@
 # EmployeeCheck
-an admin system documenting employees
+An admin system documenting employees built with MongoDB, Express, Reactjs, Nodejs
